@@ -2,6 +2,8 @@
 
 Here are my java files from the Coding Bootcamp L3
 
+The scripts are uploaded into Units (packages) and the txt files at the top domain were written by a script to practice file handling
+
 U1. Coding Requirement and Planning (Java Basics)
 
 U2. Understand Coding Design (Loops)
